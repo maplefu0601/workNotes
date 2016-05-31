@@ -5,16 +5,16 @@
 	3. run gws_......start/stop.....
 	
 ## How to setup Dashboard and run it
-	1. checkout the code using hg command
+1. checkout the code using hg command
 * hg clone --verbose http://hg-gws.us.int.genesyslab.com/gws "C:\work\gws"
-	2. build front code
+2. build front code
 * cd c:\work\gws\cloud-server\dashboard
-	..2. npm install grunt
-	..3. npm install
-	3. build back-end code
-	..1. grunt default
-	..2. grunt default watch
-	..3. grunt test --with-coverage
+..2. npm install grunt
+..3. npm install
+3. build back-end code
+..1. grunt default
+..2. grunt default watch
+..3. grunt test --with-coverage
 	
   
 
