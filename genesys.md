@@ -8,9 +8,9 @@
 1. checkout the code using hg command
 * hg clone --verbose http://hg-gws.us.int.genesyslab.com/gws "C:\work\gws"
 2. build front code
-* cd c:\work\gws\cloud-server\dashboard
-..2. npm install grunt
-..3. npm install
+- cd c:\work\gws\cloud-server\dashboard
+- npm install grunt
+- npm install
 3. build back-end code
 ..1. grunt default
 ..2. grunt default watch
