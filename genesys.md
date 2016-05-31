@@ -16,5 +16,8 @@
 	- grunt default watch
 	- grunt test --with-coverage
 	
-  
+## Generate API doc
+	- grunt jsdoc
+	- you will find the doc under folder docs\Dashboard API - Integration
+
 
