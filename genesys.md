@@ -12,8 +12,8 @@
 	   2. npm install grunt
 	   3. npm install
 	3. build back-end code
-		1. grunt default
-		2. grunt default watch
+	   - grunt default
+	   - grunt default watch
 		3. grunt test --with-coverage
 	
   
