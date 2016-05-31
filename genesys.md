@@ -6,7 +6,7 @@
 	
 ## How to setup Dashboard and run it
 	1. checkout the code using hg command
-	..1. hg clone --verbose http://hg-gws.us.int.genesyslab.com/gws "C:\work\gws"
+	⋅⋅1. hg clone --verbose http://hg-gws.us.int.genesyslab.com/gws "C:\work\gws"
 	2. build front code
 	..1. cd c:\work\gws\cloud-server\dashboard
 	..2. npm install grunt
