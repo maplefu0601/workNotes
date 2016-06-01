@@ -2,7 +2,7 @@
 ### Jun 1, 2016
   1. go over Ark sample
   2. install new laptop
-  3. 
+
 ### May 31, 2016
   1. grunt
   2. setup environment
